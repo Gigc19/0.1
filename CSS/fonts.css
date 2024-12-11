@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Inter 24pt-regular';
+    src: url('../FONTS/Inter24pt-Regular.eot');
+    src: url('../FONTS/Inter24pt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../FONTS/Inter24pt-Regular.woff2') format('woff2'),
+        url('../FONTS/Inter24pt-Regular.woff') format('woff'),
+        url('../FONTS/Inter24pt-Regular.svg#Inter24pt-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Poppins-700';
+    src: url('../FONTS/poppins/Poppins-Bold.eot');
+    src: url('../FONTS/poppins/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../FONTS/poppins/Poppins-Bold.woff2') format('woff2'),
+        url('../FONTS/poppins/Poppins-Bold.woff') format('woff'),
+        url('../FONTS/poppins/Poppins-Bold.svg#Poppins-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
